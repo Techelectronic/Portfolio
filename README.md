@@ -27,6 +27,4 @@ This repository contains the source code for my portfolio website:
 ## 🌍 Live Demo
 
 You can view the live version of this portfolio at:  
-🔗 [your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)
-
-*(Replace this link with your actual GitHub Pages URL once published.)*
+🔗 My Portfolio Website (https://Techelectronic.github.io/Portfolio-Website-)
