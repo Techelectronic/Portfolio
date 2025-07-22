@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (pdfLink) {
     pdfLink.addEventListener('click', function (e) {
       e.preventDefault();
-      handleDownload('files/CV.pdf');
+      handleDownload('CV.pdf');
     });
   }
 
