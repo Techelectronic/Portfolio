@@ -19,11 +19,16 @@ I enjoy experimenting with backend tools, automating workflows, and contributing
 
 This repository contains the source code for my portfolio website:
 
-- `Portfolio.html` – Main landing page
-- `styles/` – CSS files
-- `scripts/` – JavaScript functionality (if any)
-- `assets/` – Images and other static resources(files)
-
+```
+.
+├── index.html               
+├── styles/
+│   └── portfolio_style.css  
+├── script/
+│   └── portfolio_style.js    
+├── CV.pdf                   
+└── README.md                
+```
 ## 🌍 Live Demo
 
 You can view the live version of this portfolio at:  
