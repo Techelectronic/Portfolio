@@ -19,7 +19,7 @@ function handleDownload(filePath) {
   const fileName = filePath.split('/').pop();
   const link = document.createElement('a');
   link.href = filePath;
-  link.setAttribute('download', '');
+  link.setAttribute('download', fileName);
   link.style.display = 'none';
   document.body.appendChild(link);
   link.click();
